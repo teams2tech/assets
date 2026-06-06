@@ -1,0 +1,6 @@
+<svg width="256" height="256" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="documind icon">
+  <rect x="4" y="2.5" width="14" height="18" rx="3" fill="#534AB7"/>
+  <path d="M14 2.5l4 4h-4z" fill="#7F77DD"/>
+  <rect x="9" y="9" width="15" height="15" rx="7.5" fill="#D85A30"/>
+  <path d="M13 16.5l2.4 2.4L20 14" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
